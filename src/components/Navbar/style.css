@@ -1,0 +1,8 @@
+nav ul {
+    transform: translateX(32%);
+    webkit-transform: translateX(-32%);
+}
+
+nav i:hover {
+    transform: scale(1.2);
+}
