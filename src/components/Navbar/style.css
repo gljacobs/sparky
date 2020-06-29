@@ -1,8 +1,16 @@
 nav ul {
-    transform: translateX(32%);
-    webkit-transform: translateX(-32%);
+    margin-left: 33%;
 }
 
 nav i:hover {
     transform: scale(1.2);
+}
+
+@media screen and (max-width: 600px) {
+    nav ul {
+        margin-left: 30%;
+    }
+    nav i {
+        margin-top: 15px;
+    }
 }
