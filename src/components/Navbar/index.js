@@ -4,7 +4,7 @@ import './style.css';
 function Navbar() {
     return (
         <nav id="navbar">
-            <div className="nav-wrapper white">
+            <div className="nav-wrapper">
                 <div className="container">
                     <a href="../" className="brand-logo left blue-grey-text text-darken-3">SPARKY</a>
                     <ul className="center">
