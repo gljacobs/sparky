@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/sparky/static/css/main.1f14365b.chunk.css",
+    "main.css": "/sparky/static/css/main.a5104768.chunk.css",
     "main.js": "/sparky/static/js/main.8b119dcd.chunk.js",
     "main.js.map": "/sparky/static/js/main.8b119dcd.chunk.js.map",
     "runtime-main.js": "/sparky/static/js/runtime-main.18c810b3.js",
@@ -8,15 +8,15 @@
     "static/js/2.a5bed6ca.chunk.js": "/sparky/static/js/2.a5bed6ca.chunk.js",
     "static/js/2.a5bed6ca.chunk.js.map": "/sparky/static/js/2.a5bed6ca.chunk.js.map",
     "index.html": "/sparky/index.html",
-    "precache-manifest.9fb5c90136907987d6e4e594a4569b62.js": "/sparky/precache-manifest.9fb5c90136907987d6e4e594a4569b62.js",
+    "precache-manifest.04b049e7b9b7bd1dbcd4d265f60eb525.js": "/sparky/precache-manifest.04b049e7b9b7bd1dbcd4d265f60eb525.js",
     "service-worker.js": "/sparky/service-worker.js",
-    "static/css/main.1f14365b.chunk.css.map": "/sparky/static/css/main.1f14365b.chunk.css.map",
+    "static/css/main.a5104768.chunk.css.map": "/sparky/static/css/main.a5104768.chunk.css.map",
     "static/js/2.a5bed6ca.chunk.js.LICENSE.txt": "/sparky/static/js/2.a5bed6ca.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.18c810b3.js",
     "static/js/2.a5bed6ca.chunk.js",
-    "static/css/main.1f14365b.chunk.css",
+    "static/css/main.a5104768.chunk.css",
     "static/js/main.8b119dcd.chunk.js"
   ]
 }
